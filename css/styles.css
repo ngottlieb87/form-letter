@@ -1,3 +1,11 @@
 .letter{
   display: none;
 }
+
+#letterStyle{
+  margin-top:20%;
+  background-color: ;
+  font-size: 2em;
+  float: left;
+  font-family: 'Raleway', sans-serif;
+}
