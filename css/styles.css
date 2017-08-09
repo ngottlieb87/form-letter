@@ -1,11 +1,16 @@
-.letter{
+.letter {
   display: none;
 }
 
-#letterStyle{
+.extraText {
+  display: none;
+}
+
+#letterStyle {
   margin-top:20%;
-  background-color: ;
+  /*background-color: ;*/
   font-size: 2em;
   float: left;
   font-family: 'Raleway', sans-serif;
+  display: none;
 }
